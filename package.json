@@ -1,0 +1,11 @@
+{
+  "name": "semtag-exercise",
+  "version": "1.0.0",
+  "scripts": {
+    "semantic-release": "npx semantic-release"
+  },
+  "devDependencies": {
+    "@semantic-release/git": "^10.0.1",
+    "semantic-release": "18.0.0"
+  }
+}
